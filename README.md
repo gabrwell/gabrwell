@@ -6,7 +6,7 @@
 ##
 -🔭 my contact email : gabrielgibin0504@gmail.com
 
-## 
+## Learning 📖
 <div style="display: inline_block"><br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50" />
