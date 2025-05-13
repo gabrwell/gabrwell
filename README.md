@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--🏹 learning c, python and data structures 
+-🏹 learning c, python, java and data structures 
 ##
 -🔧 studying computer science 
 ##
